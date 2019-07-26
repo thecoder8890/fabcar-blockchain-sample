@@ -67,7 +67,7 @@ Follow these steps to set up and run this code pattern. The steps are described 
 Clone this repository in a folder your choice:
 
 ```bash
-git clone https://github.com/IBM/fabcar-blockchain-sample.git
+git clone https://github.com/thecoder8890/fabcar-blockchain-sample.git
 cd fabcar-blockchain-sample
 ```
 
